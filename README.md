@@ -10,7 +10,7 @@ Computer Science Engineering graduate from Vellore Institute of Technology, Bhop
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshsharm07&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsharm07" /> </p>
 
-- 🌱 Skills **Java,Flutter,Dsa and WEb.D,Data Analytic,Python,Power BI,Sql,Ms.Excel**
+- 🌱 Skills: <strong>Java</strong>, <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>React JS</strong>, <strong>Node JS</strong>, <strong>Express JS</strong>, <strong>MongoDB</strong>, <strong>Data Analytics</strong>, <strong>SQL</strong>, <strong>Power BI</strong>, <strong>MS Excel</strong>
 
 - 💬 Ask me about **Anything**
 
