@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
-<h3 align="center">"Santosh Sharma: Computer Science Student at VIT Bhopal | Coding Enthusiast. Currently pursuing B.Tech from Vellore Institute of Technology, Bhopal. Passionate about coding and exploring the world of technology. Eager to contribute to open-source projects and enhance my skills. Let's collaborate and create innovative solutions together!"</h3>
+<h3 align="center">
+Computer Science Graduate from VIT Bhopal | Software Engineering & Data Enthusiast
+</h3>
+
+<p align="center">
+Computer Science Engineering graduate from Vellore Institute of Technology, Bhopal, with a strong foundation in programming, problem-solving, and modern technologies. Passionate about building scalable applications, working on data-driven solutions, and contributing to impactful projects. Actively seeking opportunities to apply skills, learn continuously, and grow as a software professional.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshsharm07&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsharm07" /> </p>
 
