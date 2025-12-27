@@ -85,6 +85,5 @@ Computer Science Engineering graduate from Vellore Institute of Technology, Bhop
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshsharm07&show_icons=true&locale=en&layout=compact" alt="santoshsharm07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshsharm07&show_icons=true&locale=en" alt="santoshsharm07" /></p>
