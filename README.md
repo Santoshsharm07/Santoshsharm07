@@ -11,9 +11,9 @@ Computer Science Engineering graduate (VIT Bhopal) building AI-powered, data-dri
 
 - 🤖 Currently working on: **AI/ML systems, LLM-based agents & automation, WhatsApp agent integrations, full-stack platforms**
 - 🧠 Core skills: **Python, Machine Learning, Generative AI / LLMs, Agentic AI, SQL, Data Analytics**
-- ⚙️ Full-stack: **React, Node.js, Express.js, Next.js, MongoDB**
+- ⚙️ Full-stack: **React, Node.js, Express.js, Next.js, Mysql , Psql**
 - ☁️ Cloud: **AWS (Lambda, EC2, ECS, Webhook, Watchlogs)**
-- 📊 Data tools: **Power BI, MS Excel, SQL**
+- 📊 Data tools: **Power BI, MS Excel, SQL, PgAdmin, Claude**
 - 💬 Ask me about: **AI/ML, Generative AI agents, full-stack development, data analytics**
 - 📫 Reach me: **07santoshsharma2004@gmail.com**
 
