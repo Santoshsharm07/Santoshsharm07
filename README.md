@@ -81,4 +81,6 @@ Computer Science Engineering graduate (VIT Bhopal) building AI-powered, data-dri
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santoshsharm07&" alt="Santoshsharm07" /></p>
+
 </p>
